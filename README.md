@@ -6,7 +6,6 @@
 
 ### Shortly, a Prompt Hub to save "AI ILLITERACY" and save JOBs of fellow technicians..
 ### a "Prompts" recipe book for all content kinds.. A bridge to Productivity..
-### trust me bro, AI won't take a job unless one who settled with "AI ILLITERACY"...
 
 ### In this AI-AGE, this is a bridge platform like "Wikipedia" or "Social Media" for "AI-Prompts", making prompts more accessible for everyone for better productivity and guided usage of AI as a tool for a better world.
 
