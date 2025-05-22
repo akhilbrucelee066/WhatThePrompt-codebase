@@ -2,9 +2,9 @@
 - "Wikipedia" or "Social Media" for "AI-Prompts"
 - let's everyone place Brick by Brick in building 'Prompt wall' to stand tall across any contemporary AI/Agents, "because, AI agents may change but "prompts" won't". so, let's educate everyone..
 
-### - Shortly, a Prompt Hub to save "AI ILLITERACY" and save JOBs of fellow technicians..
-### - Trust me bro, AI won't take your job unless you settle in category of "AI ILLITERACY"...
-### - A "Prompts" recipe book for all content kinds.. A bridge to Productivity..
+### Shortly, a Prompt Hub to save "AI ILLITERACY" and save JOBs of fellow technicians..
+### Trust me bro, AI won't take your job unless you settle in category of "AI ILLITERACY"...
+### A "Prompts" recipe book for all content kinds.. A bridge to Productivity..
 
 ### In this AI-AGE, this is a bridge platform like "Wikipedia" or "Social Media" for "AI-Prompts", making prompts more accessible for everyone for better productivity and guided usage of AI as a tool for a better world.
 
@@ -33,7 +33,7 @@ resumes), etc..
 - People can comment \ upvote \ downvote \ share \ like eachother as interaction.
 
 
-- Design inspiration:
+- Design Inspiration:
 Reddit functionality + Wikipedia community + Food recipe simplicity + Twitter's agility & Interactability
 
--> Tech: Django, MySQL, Vercel, Git, Bootstrap & F-nd langs, Figma, etc..
+- Tech: Django, MySQL, Vercel, Git, Bootstrap & F-nd langs, Figma, etc..
