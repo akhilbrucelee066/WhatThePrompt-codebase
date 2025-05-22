@@ -3,10 +3,10 @@
 - let's everyone place Brick by Brick in building 'Prompt wall' to stand tall across any contemporary AI/Agents, "because, AI agents may change but "prompts" won't". so, let's educate everyone..
 
 
-### Shortly,
-### a Prompt Hub to save "AI ILLITERACY" and save JOBs of fellow technicians..
+
+### Shortly, a Prompt Hub to save "AI ILLITERACY" and save JOBs of fellow technicians..
 ### a "Prompts" recipe book for all content kinds.. A bridge to Productivity..
-### trust me bro, AI won't take your job unless you settle with "AI ILLITERACY"...
+### trust me bro, AI won't take a job unless one who settled with "AI ILLITERACY"...
 
 ### In this AI-AGE, this is a bridge platform like "Wikipedia" or "Social Media" for "AI-Prompts", making prompts more accessible for everyone for better productivity and guided usage of AI as a tool for a better world.
 
