@@ -1,0 +1,11 @@
+{% extends "promptpedia/layout.html" %} 
+
+{% block title %} 
+{{ title }} 
+{% endblock %} 
+
+
+{% block body %}
+<h1>ERROR : PAGE DOESN'T EXIST</h1>
+<p>Requested '{{title}} Page' was not found, Enter a valid page from <a href="{% url "index" %}">HOME</a></p>
+{% endblock %}

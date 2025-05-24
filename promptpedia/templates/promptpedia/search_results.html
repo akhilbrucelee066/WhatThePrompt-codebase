@@ -1,0 +1,18 @@
+{% extends "promptpedia/layout.html" %}
+
+{% block title %}
+    Promptpedia
+{% endblock %}
+
+{% block body %}
+    <h1>Matching Results</h1>
+
+    <ul>
+        {% for result in results %}
+            <li><a href="{% url 'entry' result %}">{{ result }}</a></li>
+            {% empty %}
+            <li>No Matching results</li>
+        {% endfor %}
+    </ul>
+
+{% endblock %}
