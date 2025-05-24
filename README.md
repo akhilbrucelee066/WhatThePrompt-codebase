@@ -1,13 +1,11 @@
 # WHAT THE PROMPT 
-- "Wikipedia" or "Social Media" for "AI-Prompts"
+- "Wikipedia" or "Social Media" or "Prompt Recipe Book" for "AI-Prompts" of all kinds.
 - let's everyone place Brick by Brick in building 'Prompt wall' to stand tall across any contemporary AI/Agents, "because, AI agents may change but "prompts" won't". so, let's educate everyone..
 
 
 
-### Shortly, a Prompt Hub to save "AI ILLITERACY" and save JOBs of fellow technicians..
-### a "Prompts" recipe book for all content kinds.. A bridge to Productivity..
-
-### In this AI-AGE, this is a bridge platform like "Wikipedia" or "Social Media" for "AI-Prompts", making prompts more accessible for everyone for better productivity and guided usage of AI as a tool for a better world.
+- Shortly, a Prompt Hub to save "AI ILLITERACY" and save JOBs of fellow technicians.. A bridge to Productivity..
+- In this AI-AGE, this is a bridge platform like "Wikipedia" or "Social Media" for "AI-Prompts", making prompts more accessible for everyone for better productivity and guided usage of AI as a tool for a better world.
 
 - There will be categorised sections of all types of prompts to generate different kind of contents.
 
