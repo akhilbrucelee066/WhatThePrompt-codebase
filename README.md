@@ -35,4 +35,4 @@ resumes), etc..
 - Design Inspiration:
 Reddit functionality + Wikipedia community + Food recipe simplicity + Twitter's agility & Interactability
 
-- Tech: Django, MySQL, Vercel, Git, Bootstrap & F-nd langs, Figma, etc..
+- Tech: Django, SQLite, Vercel, Git, Bootstrap & F-nd langs, Figma, Gen AI integration, etc..
