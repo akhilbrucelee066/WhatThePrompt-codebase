@@ -161,7 +161,7 @@ textarea {
   margin-top: 20px;
   margin-left: 50vh;
   margin-right: 20vh;
-  position: fixed;
+  position: absolute;
   width: auto;
   border-radius: 5vh;
   border: var(--d-bright) solid 1px;
