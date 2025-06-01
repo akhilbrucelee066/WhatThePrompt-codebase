@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "WhatThePrompt/wsgi.py",
+      "use": "@vercel/python"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/static/(.*)",
+      "dest": "WhatThePrompt/static/$1"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "WhatThePrompt/wsgi.py"
+    }
+  ]
+}
